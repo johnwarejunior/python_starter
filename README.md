@@ -1,2 +1,2 @@
 # python_starter
-Python crash for future reference materials
+Python crash course for future reference materials
